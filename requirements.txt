@@ -1,0 +1,5 @@
+pandas
+spacy
+# for visualizations
+matplotlib
+seaborn
