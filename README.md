@@ -1,5 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10145323&assignment_repo_type=AssignmentRepo)
-
 # Extracting linguistic features using spaCy
 
 This repository contains script which uses ```spaCy``` to extract linguistic information from a corpus of texts. Feature extraction is a NLP method where a model (like spaCy) devides a text into individual tokens. It is then able to peform part of speech tagging which is when it recognizes the tokens grammatical class (noun, adjective, verb etc.). 
